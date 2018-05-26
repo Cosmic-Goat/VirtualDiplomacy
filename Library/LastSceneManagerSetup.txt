@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/population.unity
+=======
+- path: Assets/Scenes/Data.unity
+>>>>>>> 7ab546a5139dd0c35d3bd41185adec7d79c797af
   isLoaded: 1
   isActive: 1
